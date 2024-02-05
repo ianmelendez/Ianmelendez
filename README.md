@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ian Melendez</h1>
 <h3 align="center">A passionate Data Scientist & Software engenieer.</h3>
-[![Giphy GIF](https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExMXZ6dnRicXhjdDIzaXB3ajdocXp3N2x1M250dTFlbjdiMWNsM3cybiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y2siFL8PCUm5ucFBuS/giphy.gif)](https://giphy.com/gifs/uchicago-university-of-chicago-professional-education-Y2siFL8PCUm5ucFBuS)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianmelendez&label=Profile%20views&color=0e75b6&style=flat" alt="ianmelendez" /> </p>
 
