@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianmelendez" alt="ianmelendez" /></a> </p>
 
-- 🔭 <p>I’m currently working in <a href="http://www.waiterone.net" target="_blank">Waiter One</a>.</p>
+- 🔭 I’m currently working in <a href="http://www.waiterone.net" target="_blank">Waiter One</a>.
 
 - 🌱 I’m currently learning **SQL, Objective C**
 
