@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ian Melendez</h1>
 <h3 align="center">A passionate Data Scientist & Software engenieer.</h3>
-
+<iframe src="https://giphy.com/embed/Y2siFL8PCUm5ucFBuS" width="480" height="278" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/uchicago-university-of-chicago-professional-education-Y2siFL8PCUm5ucFBuS">via GIPHY</a></p>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ianmelendez&label=Profile%20views&color=0e75b6&style=flat" alt="ianmelendez" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ianmelendez" alt="ianmelendez" /></a> </p>
