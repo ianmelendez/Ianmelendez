@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working in <a href="http://www.waiterone.net" target="_blank">Waiter One</a>.
 
-- 🌱 I’m currently learning **SQL, Objective C**
+- 🌱 I’m using learning **SQL, Objective C**
 - 📫 How to reach me **ianmelendezdelgado@gmail.com**
 - ⚡ Fun fact **I can also cook!**
 
